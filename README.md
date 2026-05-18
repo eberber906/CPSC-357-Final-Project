@@ -6,4 +6,4 @@
 4. Class: CPSC 357
 
 ## Instructions
-Download as a .zip file and open the "LiftTracker.xcodeproj" file.
+Download as a .zip file and open the "LiftTracker.xcodeproj" file and run in the Simulator.
